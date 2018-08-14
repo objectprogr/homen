@@ -1,4 +1,4 @@
-# homemanager
+# homen
 
 > An electron-vue project
 

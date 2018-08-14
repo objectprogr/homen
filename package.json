@@ -17,7 +17,7 @@
     "postinstall": ""
   },
   "build": {
-    "productName": "homemanager",
+    "productName": "homen",
     "appId": "org.simulatedgreg.electron-vue",
     "directories": {
       "output": "build"
